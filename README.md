@@ -145,9 +145,9 @@ Berikut adalah struktur dasar :
 ```
 
 **Ouput sebelum diberi style bootstrap**
-![img](img/3.png)
-![img](img/4.png)
-![img](img/5.png)
+<img width="960" alt="prak6_html1" src="https://github.com/mullf/Lab6_HTML_Web/assets/115521049/b8e2c16b-584e-49d1-bff7-70e8251ab43b">
+<img width="960" alt="prak6_html2" src="https://github.com/mullf/Lab6_HTML_Web/assets/115521049/60503068-1795-4923-ad3d-1b93748f0f71">
+<img width="960" alt="prak6_html3" src="https://github.com/mullf/Lab6_HTML_Web/assets/115521049/926c68b9-4b38-416c-a388-4ef4ae82df6f">
 
 **3. Custom CSS (Opsional):**
 
@@ -323,5 +323,5 @@ Jika Anda ingin menyesuaikan tampilan lebih lanjut, Anda dapat menambahkan CSS k
 ```
 
 **Output sesudah menggunakan style bootstrap**
-![img](img/1.png)
-![img](img/2.png)
+<img width="960" alt="prak6_html4" src="https://github.com/mullf/Lab6_HTML_Web/assets/115521049/a3d3603b-5b98-406b-bf49-10fc606f35e4">
+<img width="960" alt="prak6_html5" src="https://github.com/mullf/Lab6_HTML_Web/assets/115521049/53f2c091-e037-4e79-87c5-13d386d0b399">
